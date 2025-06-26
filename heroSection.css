@@ -1,0 +1,32 @@
+/* step 2 component  */
+.heroSection {
+    background-color: gray;
+}
+
+/* step 3: ComponentContainer  */
+.heroSectionContainer {
+    background-color: orangered;
+}
+
+/* step 4: row  */
+.heroSectionBody {
+    background-color: #94999a;
+}
+
+/* step 5: column  */
+.heroSectionBlock {
+    background-color: olive;
+}
+
+/* step 6: subcolumn  */
+.heroSectionBox {
+    background-color: #bc0d4d;
+}
+.heroSectionBox h1
+{
+    background-color: #0dbc50;
+}
+.heroSectionBox p
+{
+    background-color: aquamarine;
+}

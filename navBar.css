@@ -1,0 +1,85 @@
+/* ::::CSS Sequence (7 Steps):::: */
+/* Step1: parentContainer */
+/* Step2: component */
+/* Step3: componentContainer */
+/* Step4: row */
+/* Step5: column */
+/* Step6: subColumn */
+/* Step7: contentContainer */
+
+
+/* Step1: parentContainer */
+/* :::For Parent Container CSS Properties are given in the Default CSS file::: */
+/* header{
+    background-color: #649db1;
+} */
+
+/* Step2: component */
+.navBar {
+    background-color: #4144ab;
+}
+
+/* Step3: componentContainer */
+.navBarContainer {
+    background-color: #649db1;
+}
+
+/* Step4: row */
+.navBarBody {
+    background-color: #128e07;
+}
+
+/* Step5: column1 */
+.navBarBlock {
+    background-color: #48defc;
+}
+
+/* Step6: subColumn */
+.navBarBox {
+    background-color: #a81a98;
+}
+
+/* Step7: contentContainer */
+.navBarBox figure {
+    background-color: #c8ff00;
+}
+
+.navBarBox figure img {
+    background-color: #a29eb4;
+    width: auto;
+    height: 5rem;
+}
+
+/* Step5: column2 */
+.navLinkBlock {
+    background-color: #4857fc;
+}
+
+/* Step6: subColumn */
+.navLinkBox {
+    background-color: #c8ff00;
+    /* width: 100%; */
+    /* height: 100%; */
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+
+/* Step7: contentContainer */
+.navLinkBox ul {
+    /* background-color: #0dbc9d; */
+}
+
+.navLinkBox ul li {
+    /* background-color: #bc0d4d; */
+}
+
+.navLinkBox ul li a {
+    /* background-color: tomato; */
+}
+
+.links{
+    /* display: flex; */
+}
+
+

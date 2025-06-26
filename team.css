@@ -1,0 +1,159 @@
+/* step 2: component */
+.team
+{
+    background-color: aqua;
+}
+/* step 3: componentContainer */
+.teamContainer
+{
+    background-color: rgb(93, 201, 26);
+}
+/* step 4: row */
+.teamBody
+{
+    background-color: rgb(220, 236, 245);
+}
+/* step 5: column */
+.teamBlock
+{
+    background-color: rgb(172, 92, 92);
+}
+/* step 6: subColumn */
+.teamBox
+{   
+    background-color: coral;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/* step 7: Content Container  */
+.team figure
+{
+    background-color: lawngreen ;
+}
+.team figure img
+{
+    background-color: yellow;
+}
+/* step 4: row2 */
+.teamMemberBody
+{
+    background-color: darkkhaki;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+/* step 5: column1 */
+.teamImage1Block
+{
+    background-color: brown;
+}
+/* step 6: subcolumn1 */
+.teamImage1Box
+{
+    background-color: rgb(139, 108, 169);
+    text-align: center;
+}
+/* step 7: contentContainer */
+.teamImage1Box figure
+{
+    background-color: rgb(44, 186, 186);
+}
+.teamImage1Box figure img
+{
+    background-color: rgb(99, 114, 69);
+}
+/* step 5: column2 */
+.teamImage2Block
+{
+    background-color: darkred;
+}
+/* step 6: sub column2 */
+.teamImage2Box
+{
+    background-color: aqua;
+    text-align: center;
+}
+/* step 7: contentContainer2 */
+.teamImage2Box figure
+{
+    background-color: azure;
+}
+.teamImage2Box figure img
+{
+    background-color: chocolate;
+}
+/* step 5: column2 */
+.teamImage3Block
+{
+    background-color: turquoise;
+}
+.teamImage3Box
+{
+    background-color: rgb(90, 116, 166);
+    text-align: center;
+}
+.teamImage3 figure{
+    background-color: antiquewhite;
+}
+.teamImage3 figure img
+{
+    background-color: blue;
+}
+/* step 5: column3 */
+.teamImage4Block
+{
+    background-color: turquoise;
+}
+/* step 6: subcolumn3 */
+.teamImage4Box
+{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+/* step 7: contentContainer */
+.teamImage4Box figure{
+    background-color: antiquewhite;
+}
+.teamImage4Box figure img
+{
+    background-color: pink;
+}
+/* step 5: column4 */
+.teamImage5Block
+{
+    background-color: turquoise;
+}
+/* step 6: subColumn4 */
+.teamImage5Box
+{
+    background-color: blueviolet;
+    text-align: center;
+}
+/* step 7: ContentContainer  */
+.teamImage5Box figure{
+    background-color: antiquewhite;
+}
+.teamImage5Box figure img
+{
+    background-color: blue;
+}
+
+/* step 5: column6 */
+.teamImage6Block
+{
+    background-color: rgb(193, 235, 25);
+}
+/* step 6: subColumn6 */
+.teamImage6Box
+{
+    background-color: rgb(13, 224, 9);
+    text-align: center;
+}
+/* step 7: ContentContainer6  */
+.teamImage6Box figure{
+    background-color: antiquewhite;
+}
+.teamImage6Box figure img
+{
+    background-color: rgb(124, 154, 90);
+}

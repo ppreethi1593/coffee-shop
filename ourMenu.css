@@ -1,0 +1,64 @@
+/* step 2: Component  */
+.ourMenu {
+    background-color: #48defc;
+}
+
+/* step 3: ComponentContainer  */
+.ourMenuContainer {
+    background-color: #c8ff00;
+}
+
+/* step 4: row  */
+.ourMenuBody {
+    background-color: #649db1;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+/* step 5: Column1 */
+.ourMenuBlock {
+    background-color: #a81a1a;
+}
+
+/* step 6: subcolumn */
+.ourMenuBox {
+    background-color: rgb(210, 68, 16);
+}
+
+.ourMenuBox figure {
+    background-color: #c8ff00;
+}
+
+.ourMenuBox figure img {
+    background-color: #128e07;
+}
+
+/* step 5: Column2 */
+.ourMenuImageBlock {
+    background-color: #bc0d4d;
+}
+
+/* step 6: subcolumn */
+.ourMenuImageBox {
+    height: 100%;
+    width: 100%;
+    background-color: #128e07;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    /* align-items: center; */
+
+}
+.ourMenuImageBox h2
+{
+    background-color: #a81a1a;
+}
+.ourMenuImageBox p{
+    background-color: #649db1;
+}
+.ourMenuImageBox button
+{
+background-color: #ce9674;
+}
+

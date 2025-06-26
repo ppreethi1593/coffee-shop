@@ -1,0 +1,86 @@
+/* step 2: component  */
+.contactIcon
+{
+    background-color: blue;
+}
+/* step 3: componentContainer */
+.contactIconContainer
+{
+    background-color: blanchedalmond;
+}
+/* step4: row */
+.contactIconBody
+{
+    background-color: brown;
+}
+/* step5: column */
+.emailBlock
+{
+    background-color: aqua;
+}
+/* step 6: subColumn */
+.emailBox
+{
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/* step5: column */
+.hoursBlock
+{
+    background-color: wheat;
+}
+/* step 6: subColumn */
+.hoursBox
+{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/* step5: column */
+.locationBlock
+{
+    background-color: rgb(93, 93, 150);
+}
+/* step 6: subColumn */
+.locationBox
+{
+    background-color: rgb(202, 37, 183);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/* step5: column */
+.numberBlock
+{
+    background-color: beige;
+}
+/* step 6: subColumn */
+.numberBox
+{
+    background-color: yellowgreen;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/* step 4: row */
+.copyRightBody
+{
+    background-color: chocolate;
+}
+/* step 5: column */
+.copyRightBlock
+{
+    background-color: crimson;
+}
+/* step 6: subColumn */
+.copyRightBox
+{
+    background-color: rgb(29, 173, 29);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
