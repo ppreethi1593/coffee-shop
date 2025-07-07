@@ -73,4 +73,9 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
+}
+.contactBookBox{
+    display: flex;
+   text-align: center;
 }

@@ -21,7 +21,6 @@
 /* step 6: subColumn */
 .menuBox
 {
-  
     background-color: coral;
     display: flex;
     justify-content: center;
