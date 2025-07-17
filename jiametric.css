@@ -425,7 +425,7 @@ h4 {
 /* :::FOOTER Code Starts here::: */
 /* Contact code */
 .contactHeadingBody {
-  padding-bottom: 5rem;
+  padding-bottom: 3rem;
 }
 
 /* .contactBookBox h3 {
@@ -465,7 +465,8 @@ h4 {
 }
 
 .name input {
-  padding: 1rem 6rem 1.5rem 1.5rem;
+  padding: 1rem 15rem 1.5rem 1.5rem;
+  border: 1px solid black;
 }
 
 .contactBookBox {
@@ -473,6 +474,7 @@ h4 {
   padding-bottom: 3rem;
   border: 1px solid black;
   padding: 1rem 2rem 2rem;
+  margin-right: 3rem;
 }
 .contactBookBox h3 {
   font-size: 3.5rem;
@@ -584,9 +586,7 @@ span {
     font-size: 2rem;
   }
 }
-.contactBookBox{
-  margin:2rem;
-}
+
 .copyRightBox p {
   font-size: 2rem;
 }
