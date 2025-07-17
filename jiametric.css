@@ -584,7 +584,9 @@ span {
     font-size: 2rem;
   }
 }
-
+.contactBookBox{
+  margin:2rem;
+}
 .copyRightBox p {
   font-size: 2rem;
 }
