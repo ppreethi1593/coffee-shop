@@ -441,31 +441,24 @@ h4 {
 .contactImageBox img {
   width: 100%;
   height: 700PX;
+  padding-right: 5rem;
 }
 
 :placeholder-shown {
   font-size: 2.5rem;
 }
 
-/* .contactBookBox button{
-  margin-bottom: 3rem;
-}
-
 .contactBookBlock {
-  border: 1.5px solid;
-  margin: 9rem;
-  display: flex;
-  align-items: center;
-  padding: 0rem 3rem;
+  padding: 0rem 1rem;
 }
 
-} */
+
 .name {
   padding-bottom: 3rem;
 }
 
 .name input {
-  padding: 1rem 15rem 1.5rem 1.5rem;
+  padding: 1rem 12rem 1.5rem 1.5rem;
   border: 1px solid black;
 }
 
@@ -475,16 +468,11 @@ h4 {
   border: 1px solid black;
   padding: 1rem 2rem 2rem;
   margin-right: 3rem;
+
 }
 .contactBookBox h3 {
   font-size: 3.5rem;
 }
-
-.contactIconBody {
-  padding-bottom: 1rem;
-}
-
-
 /* Contact code */
 
 /* Contact Icons code */
@@ -514,11 +502,9 @@ h4 {
 .contactIconBody p {
   font-size: 2rem;
 }
-
 .copyRightBox p {
   margin-top: 2rem;
 }
-
 span {
   color: #be9c79;
 }
