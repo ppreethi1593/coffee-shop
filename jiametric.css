@@ -424,20 +424,7 @@ h4 {
 
 /* :::FOOTER Code Starts here::: */
 /* Contact code */
-.contactHeadingBody {
-  padding-bottom: 3rem;
-}
 
-/* .contactBookBox h3 {
-  padding: 2rem 0rem 0rem 0rem;
-  font-size: 3.5rem;
-}
-
-.contactBookBox input {
-  padding: 1rem 18rem 1rem 1rem;
-  margin-bottom: 3rem;
-
-} */
 .contactImageBox img {
   width: 100%;
   height: 700PX;
@@ -457,10 +444,9 @@ h4 {
 }
 
 .name input {
-  padding: 1rem 15rem 1.5rem 1.5rem;
+  padding: 1rem 20rem 1.5rem 1.5rem;
   border: 1px solid black;
 }
-
 .contactBookBox {
  
   padding-bottom: 3rem;
@@ -492,7 +478,6 @@ h4 {
   font-weight: 400;
   padding-bottom: 4rem;
 }
-
 .contactIconBody p {
   font-size: 2rem;
 }
@@ -562,13 +547,12 @@ span {
   .teamMemberBody figure img {
     padding: 0rem 6rem;
   }
-
   .contactIconBody p {
     font-size: 2rem;
   }
-  .name input {
+  /* .name input {
   padding: 0.5rem 8rem 1rem 1rem;
-}
+} */
 }
 
 /* TABLET RESPONSIVE CODE  */
