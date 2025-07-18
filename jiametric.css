@@ -435,9 +435,9 @@ h4 {
   font-size: 2.5rem;
 }
 
-/* .contactBookBlock {
+.contactBookBlock {
   padding: 0rem 1rem;
-} */
+}
 
 .name {
   padding-bottom: 3rem;
@@ -550,9 +550,12 @@ span {
   .contactIconBody p {
     font-size: 2rem;
   }
-  /* .name input {
+  .name input {
   padding: 0.5rem 8rem 1rem 1rem;
-} */
+}
+.contactBookBox{
+  margin-right: 1rem;
+}
 }
 
 /* TABLET RESPONSIVE CODE  */
@@ -598,7 +601,6 @@ span {
 
   .contactBookBox input {
     padding-right: 8rem;
-    /* background-color: blue; */
   }
 
   .contactIconBody {
