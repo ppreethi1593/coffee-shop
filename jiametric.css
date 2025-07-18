@@ -450,7 +450,8 @@ h4 {
 }
 .contactBookBlock button{
   font-size: 2rem;
-  padding: 7.5px 30px;
+  margin-bottom: 1rem;
+  padding: 1rem 3rem;
 }
 /* Contact code */
 
