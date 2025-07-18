@@ -506,7 +506,6 @@ span {
     grid-template-columns: 1fr;
     padding: 0rem 1rem;
   }
-
   .navLinkBlock .hamburgerIcon {
     display: block;
     position: absolute;
@@ -517,25 +516,20 @@ span {
   .links {
     flex-direction: column;
     display: none;
-
   }
 
   #iconToggle:checked~.navLinkBox .links {
     display: flex;
   }
-
   h1 {
     font-size: 3rem;
   }
-
   button {
     font-size: 2rem;
   }
-
   p {
     font-size: 1.6rem
   }
-
   .ourMenuImageBox p {
     font-size: 1.6rem;
   }
@@ -554,7 +548,7 @@ span {
   padding: 0.5rem 7rem 1rem 1rem;
 }
 .contactBookBox{
-  margin-right: 2rem;
+  margin: 0rem 2rem;
 }
 }
 
