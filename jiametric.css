@@ -508,7 +508,6 @@ span {
     top: 4rem;
     right: 3rem;
   }
-
   .links {
     flex-direction: column;
     display: none;
@@ -540,7 +539,7 @@ span {
     font-size: 2rem;
   }
   .name input {
-  padding: 0.5rem 7rem 1rem 1rem;
+  padding: 0.5rem 8rem 1.5rem 1.5rem;
 }
 }
 
