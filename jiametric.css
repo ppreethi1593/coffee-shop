@@ -360,7 +360,7 @@ h4 {
   /* padding: 0.2rem; */
 }
 
-.ourMenuBox img{
+.ourMenuBox img {
   height: 100%;
   aspect-ratio: 1/1;
 }
@@ -433,23 +433,27 @@ h4 {
 .contactBookBlock input {
   padding: 1rem 20rem 1rem 2rem;
   margin-bottom: 3rem;
-  font-size: 2.5rem;
+  font-size: 2rem;
   border: 1px solid black;
 }
+
 .contactBookBox {
   border: 1px solid black;
-  padding: 2rem 2rem 2rem 2rem;
+  padding: 1rem 1rem 1rem 1rem;
 }
+
 .contactBookBox h3 {
   font-family: var(--ffPrimary);
   font-size: 3.5rem;
   font-weight: 500;
 }
-.contactBookBlock button{
+
+.contactBookBlock button {
   font-size: 2rem;
   padding: 1rem 3rem;
   margin-bottom: 2rem;
 }
+
 /* Contact code */
 
 /* Contact Icons code */
@@ -472,13 +476,16 @@ h4 {
   font-weight: 400;
   padding-bottom: 4rem;
 }
+
 .contactIconBody p {
   font-size: 2rem;
 }
+
 .copyRightBox p {
-   font-size: 2rem;
+  font-size: 2rem;
   margin-top: 2rem;
 }
+
 span {
   color: #be9c79;
 }
@@ -500,12 +507,14 @@ span {
     grid-template-columns: 1fr;
     padding: 0rem 1rem;
   }
+
   .navLinkBlock .hamburgerIcon {
     display: block;
     position: absolute;
     top: 4rem;
     right: 3rem;
   }
+
   .links {
     flex-direction: column;
     display: none;
@@ -514,15 +523,19 @@ span {
   #iconToggle:checked~.navLinkBox .links {
     display: flex;
   }
+
   h1 {
     font-size: 3rem;
   }
+
   button {
     font-size: 2rem;
   }
+
   p {
     font-size: 1.6rem
   }
+
   .ourMenuImageBox p {
     font-size: 1.6rem;
   }
@@ -530,15 +543,24 @@ span {
   .teamMemberBody p {
     font-size: 2rem;
   }
+
   .teamMemberBody figure img {
     padding: 0rem 6rem;
   }
+
   .contactIconBody p {
     font-size: 2rem;
   }
-  .name input {
+
+  /* .name input {
   padding: 0.5rem 8rem 1.5rem 1.5rem;
-}
+} */
+  .contactBookBlock input {
+    padding: 1rem 5rem 1rem 2rem;
+    /* margin-bottom: 3rem; */
+    /* font-size: 2rem; */
+    /* border: 1px solid black; */
+  }
 }
 
 /* TABLET RESPONSIVE CODE  */
